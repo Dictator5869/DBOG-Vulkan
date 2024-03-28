@@ -1,6 +1,7 @@
 # DBOG-Vulkan
 
-This is a specific config file to run a DBOG in vulkan credit goes to:
+This is a specific config file to run DBOG with a  Vulkan-based implementation of D3D9.
+credit goes to:
 https://github.com/doitsujin/dxvk
 for making the original DLL file and credit to:
 https://github.com/Sporif/dxvk-async
