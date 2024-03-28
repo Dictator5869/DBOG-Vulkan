@@ -12,3 +12,4 @@ Install is as simple as draging and dropping the two files from the zip in to yo
 and to uninstall you just need to delete the two files from you DBO game folder.
 
 
+#known issue: The games UI becomes smaller.
