@@ -14,9 +14,16 @@ and to uninstall you just need to delete the two files from you DBO game folder.
 
 
 #known issue: The games UI becomes smaller.
+</br>
 To fix this you will need to turn on High DPI scaling override
+</br>
+</br>
 -Right click DBOG.exe and select properties
+</br>
 -Go to the Compatability tab
+</br>
 -click "Change high DPI settings"
+</br>
 -Tick the settings that says "Override high DPI scaling behaviour"
+</br>
 -leave it set to Application
